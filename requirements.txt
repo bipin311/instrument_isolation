@@ -1,0 +1,8 @@
+torch
+torchaudio
+numpy
+stempeg
+librosa
+tqdm
+pandas
+matplotlib

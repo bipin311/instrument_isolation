@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual env
+venv/
+.env/
+
+# Checkpoints / logs
+checkpoints/
+logs/
+evaluation_results*/
+evaluation_*_results*/
+
+# Data (do NOT push MUSDB18)
+musdb18/
+data/
+*.stem.mp4
+*.wav
+*.mp3
+*.flac
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
