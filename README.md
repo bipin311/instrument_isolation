@@ -19,4 +19,3 @@ A lightweight PyTorch project to isolate musical sources (e.g. vocals, bass, dru
 - 150 songs (100 train / 50 test) with stems: mixture, vocals, drums, bass, other.
 - Sample rate: 44.1 kHz. Provided in `.stem.mp4`.
 - Not included in this repo — you must download separately (see: https://sigsep.github.io/datasets/musdb.html).
-- Place dataset like:
